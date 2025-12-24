@@ -22,3 +22,6 @@
 [submodule "iac"]
 	path = iac
 	url = git@github.com:GabrielBRS/chayut-sareior-infraestrutura-as-code.git
+[submodule "server-ai-triton-nvidia"]
+	path = server-ai-triton-nvidia
+	url = https://github.com/GabrielBRS/chayut-sareior-server-ai-triton-nvidia.git
